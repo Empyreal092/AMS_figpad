@@ -1,0 +1,1 @@
+for i in *.svg;do rsvg-convert --dpi-x=72 --dpi-y=72 -f pdf -o ../new_figs/${i%.*}.pdf $i;done

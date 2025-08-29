@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Ryan Shijie Du"]
+channels = ["conda-forge"]
+name = "AMS_figpad"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.13.5,<3.14"
+jupyterlab = ">=4.4.6,<5"
+pymupdf = ">=1.26.1,<2"
+matplotlib = ">=3.10.5,<4"
+pillow = ">=11.3.0,<12"
+svgutils = ">=0.3.4,<0.4"
