@@ -1,5 +1,10 @@
 # Padding figures for publishing (in AMS journals)
 
+This does not work, unfortunately
+> Our vendor (who creates the proofs and implements the proof corrections) has instructions to remove extraneous padding space from around figures as part of the standard figure processing specifications
+If you are here, you must care about the details of how your figures appear in your paper.
+> Hopefully, you found this repo before you decided to submit to one of the AMS journals. If not, know that I share your misery.
+
 American Meteorological Society (AMS) journal (e.g., JPO, JAS, etc.) production team would much prefer it if the figures in the paper are 19 (one column), 27, 33, or 39 picas. See the [AMS website](https://www.ametsoc.org/ams/publications/author-information/figure-information-for-authors/#Size). And I quote a copyeditor for my paper:
 
 > Because of the layout constraints of the PDF format, we must adhere to our standard figure sizing. [...] figures that need to be larger than a single column must be set at one of the other three sizes (27, 33, or 39 picas).
